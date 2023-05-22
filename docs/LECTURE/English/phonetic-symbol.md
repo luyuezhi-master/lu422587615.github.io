@@ -4,7 +4,6 @@ title: 英语音标教学
 
 # 英语音标教学
 
-> 作者：[杨希杰](https://github.com/Yang-Xijie)
 > 
 > 请勿转载
 > 
