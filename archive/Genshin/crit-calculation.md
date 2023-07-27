@@ -1,6 +1,6 @@
 # 原神 暴击暴伤配比计算与应用说明
 
-> 作者：[杨希杰](https://github.com/Yang-Xijie) 
+> 作者：[卢月之](https://github.com/Yang-Xijie) 
 > 
 > 时间：2021.12.12
 

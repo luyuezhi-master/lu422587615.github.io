@@ -93,6 +93,6 @@ GitHub > Repository > Settings > Pages > Source > gh-pages > Click Save
 
 ## Postscript
 
-View your site at <https://yang-xijie.github.io/mkdocs-site/>.
+View your site at <https://luyuezhi.top/mkdocs-site/>.
 
 Modify your markdown files in docs/, make a new commit and push your site to GitHub. GitHub will automatically publish the newest contents.

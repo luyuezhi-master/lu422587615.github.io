@@ -6,7 +6,7 @@
 
 ## index
 
-最开始打开网站，也就是通过链接 <https://yang-xijie.github.io/> 访问时，会先打开 `/docs/index.md`，这时访问者点击左上角按钮展开目录会先看到大的分类。
+最开始打开网站，也就是通过链接 <https://luyuezhi.top/> 访问时，会先打开 `/docs/index.md`，这时访问者点击左上角按钮展开目录会先看到大的分类。
 
 因为不希望用户之后找不到这个页面，所以 `/docs/WEBSITE/index.md` 下面的内容与 `/docs/index.md` 的内容一致。
 

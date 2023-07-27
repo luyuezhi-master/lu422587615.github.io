@@ -1,12 +1,12 @@
 # 个人履历
 
-> 此页面为杨希杰的详细履历  实际简历以此为基础凝练形成
+> 此页面为卢月之的详细履历  实际简历以此为基础凝练形成
 > 
 > 更新于 2023.5.25
 
 ## 基本信息
 
-- 姓名：杨希杰
+- 姓名：卢月之
 - 性别：男
 - 出生年月：2001.6
 - 联系方式
@@ -14,7 +14,7 @@
     - 微信：y564197835
     - 手机：182 2077 6484
 - 相关链接
-    - 个人网站 <https://yang-xijie.github.io>
+    - 个人网站 <https://luyuezhi.top>
     - GitHub <https://github.com/Yang-Xijie>
     - Bilibili <https://space.bilibili.com/24502827>
 
@@ -156,11 +156,11 @@
     - [Markdown录屏](https://www.bilibili.com/video/BV1jV411j7mz) [Git录屏](https://www.bilibili.com/video/BV1eh411v7gt)
 - `2021.7` 清华信息学院科学技术协会联合暑培  命令行和 Linux 讲座
     - 讲座约240名同学参加
-    - [讲稿](https://yang-xijie.github.io/LECTURE/Linux/linux/)
+    - [讲稿](https://luyuezhi.top/LECTURE/Linux/linux/)
     - [录屏](https://www.bilibili.com/video/BV12h41167Lk)
 - `2022.4` 清华软件学院移动应用软件开发课程  软件开发经验分享
     - 讲座约60名同学参加
-    - [讲稿](https://yang-xijie.github.io/LECTURE/App/app-design/)
+    - [讲稿](https://luyuezhi.top/LECTURE/App/app-design/)
     - [录屏](https://www.bilibili.com/video/BV1PY41177xw)
 - `2022.9` 北京海淀区中关村 Shifu Meetup
     - 通过线下演示  介绍物联网全新框架 Shifu 接入设备与应用开发的能力
@@ -177,11 +177,11 @@
 
 ## 相关链接
 
-- [个人网站](https://yang-xijie.github.io)
-    - [讲稿](https://yang-xijie.github.io/LECTURE/)
-    - [博客](https://yang-xijie.github.io/BLOG/)
-    - [开发笔记](https://yang-xijie.github.io/DEV/)
-    - [个人文章](https://yang-xijie.github.io/3/)
+- [个人网站](https://luyuezhi.top)
+    - [讲稿](https://luyuezhi.top/LECTURE/)
+    - [博客](https://luyuezhi.top/BLOG/)
+    - [开发笔记](https://luyuezhi.top/DEV/)
+    - [个人文章](https://luyuezhi.top/3/)
 - [GitHub](https://github.com/Yang-Xijie)
     - 项目
         - [浣熊财记](https://github.com/Racoon-Book/Racoon-Account-Book)

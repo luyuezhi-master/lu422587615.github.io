@@ -9,7 +9,7 @@
 - `英语` 没有英语基础的话学什么都会感觉有些困难 因为你可能需要查看很多英文文档 与世界上的其他人使用英语交流 推荐有良好的编程基础 当然边学知识边学英语也是好的
     - `科学上网` `Google搜索` 科学上网和Google能让你获取互联网上绝大部分的有用的资源
     - `Stack Overflow` Google找不到的问题可以在SO搜索 没搜到则可以直接在SO提问
-        - 在进行任何提问前请仔细阅读[提问的智慧](https://yang-xijie.github.io/REPRODUCE/how-to-ask-questions-the-smart-way/)
+        - 在进行任何提问前请仔细阅读[提问的智慧](https://luyuezhi.top/REPRODUCE/how-to-ask-questions-the-smart-way/)
 - `操作系统`初步
     - `操作系统历史与现状` 从大家熟悉的桌面操作系统切入 了解操作系统这一世界级的大工程
     - `Linux` `命令行程序` `shell` 了解Linux这一开源的操作系统 熟练使用shell与计算机进行交互

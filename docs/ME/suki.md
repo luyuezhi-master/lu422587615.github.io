@@ -17,7 +17,7 @@
     - [React](https://react.dev) + [Next.js](https://nextjs.org) + [Django](https://www.djangoproject.com)
     - 支持手柄的游戏
 - 内容产出
-    - [个人主页](https://yang-xijie.github.io)
+    - [个人主页](https://luyuezhi.top)
     - [Bilibili](https://space.bilibili.com/24502827)
 - 娱乐
     - 学日语

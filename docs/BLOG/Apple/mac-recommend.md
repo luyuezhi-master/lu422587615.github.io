@@ -4,9 +4,9 @@
 > 
 > 此推荐有时效性 发布于2022.6.15 更新于2022.10.21
 >
-> Bilibili@杨希杰619
+> Bilibili@卢月之619
 > 
-> 本文链接: https://yang-xijie.github.io/BLOG/macOS/mac-recommend/
+> 本文链接: https://luyuezhi.top/BLOG/macOS/mac-recommend/
 
 ## 前提
 

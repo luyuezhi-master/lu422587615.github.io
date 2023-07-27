@@ -4,7 +4,7 @@
 
 > [Bilibili 视频版](https://www.bilibili.com/video/BV14A411M7Yh)
 
-大家好，我是杨希杰。
+大家好，我是卢月之。
 
 这期教程我来讲讲如何在Mac和安卓之间传输数据。
 
