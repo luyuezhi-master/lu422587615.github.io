@@ -1,8 +1,7 @@
-name: ci 
+name: PublishMySite
 on:
   push:
     branches:
-      - master 
       - main
 permissions:
   contents: write
