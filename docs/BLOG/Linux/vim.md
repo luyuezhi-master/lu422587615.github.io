@@ -1,6 +1,6 @@
 # Vim 学习笔记
 
-> Author: 卢月之 [Yang Xijie](https://github.com/Yang-Xijie)
+> Author: 卢月之 [Yang Xijie](luyuezhi.top)
 > 
 > Written on: 210419
 > 

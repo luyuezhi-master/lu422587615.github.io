@@ -44,7 +44,7 @@ incompatible with Compressor and FCPX
 - ffmpeg: `ALAC`
 - mp4box: `mp4 (HEVC & ALAC)`
 
-**See script at **[my GitHub repo](https://github.com/Yang-Xijie/mkv2mp4_fcp)
+**See script at **[my GitHub repo](luyuezhi.top/mkv2mp4_fcp)
 
 ## Import
 

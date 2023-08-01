@@ -463,7 +463,7 @@ git branch --move(-m) master main
 ```shell
 ## push an existing repository from the command line:
 ## 在本地添加一个远程仓库，并且给这个远程仓库起名为`origin`。使用`git remote`命令查看本地仓库关联的远程仓库。
-git remote add origin https://github.com/Yang-Xijie/git_lecture.git 
+git remote add origin luyuezhi.top/git_lecture.git 
 ## 将本地仓库的当前分支重命名为main（不本质）
 git branch -M main 
 ## 如果直接执行git push，会出现：fatal: The current branch main has no upstream branch. To push the current branch and set the remote as upstream, use `git push --set-upstream origin main`，这说明我们需要给当前的分支与一个远程的分支相对应。-u是--set-upstream的简写。

@@ -1,6 +1,6 @@
 # Publish a Website with mdBook and GitHub Pages
 
-template at <https://github.com/Yang-Xijie/mdbook-site>
+template at <luyuezhi.top/mdbook-site>
 
 ## mdbook init
 
@@ -114,7 +114,7 @@ GitHub > Repository > Settings > Actions > General >
 - Click Save
 
 ```
-$ git remote add origin git@github.com:Yang-Xijie/mdbook-site.git # change to your github repo
+$ git remote add origin git@github.com:luyuezhi/mdbook-site.git # change to your github repo
 $ git branch -M main
 $ git push -u origin main
 ```
@@ -123,6 +123,6 @@ GitHub > Repository > Settings > Pages > Source > gh-pages > Click Save
 
 ## Postscript
 
-View your site at <https://yang-xijie.github.io/mdbook-site/>.
+View your site at <https://luyuezhi.github.io/mdbook-site/>.
 
 Modify your markdown files in src/, make a new commit and push your site to GitHub. GitHub will automatically publish the newest contents.

@@ -1,6 +1,6 @@
 # ExNotes 设计文档
 
-> Author: [Yang-Xijie](https://github.com/Yang-Xijie)
+> Author: [luyuezhi](luyuezhi.top)
 > 
 > All rights reserved.
 >

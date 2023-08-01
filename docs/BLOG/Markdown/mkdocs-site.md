@@ -1,6 +1,6 @@
 # Publish a Website with Material for MkDocs and GitHub Pages
 
-template at <https://github.com/Yang-Xijie/mkdocs-site>
+template at <luyuezhi.top/mkdocs-site>
 
 ## mkdocs new
 
@@ -84,7 +84,7 @@ GitHub > Repository > Settings > Actions > General >
 - Click Save
 
 ```
-$ git remote add origin git@github.com:Yang-Xijie/mkdocs-site.git # change to your github repo
+$ git remote add origin git@github.com:luyuezhi/mkdocs-site.git # change to your github repo
 $ git branch -M main
 $ git push -u origin main
 ```
@@ -93,6 +93,6 @@ GitHub > Repository > Settings > Pages > Source > gh-pages > Click Save
 
 ## Postscript
 
-View your site at <https://yang-xijie.github.io/mkdocs-site/>.
+View your site at <https://luyuezhi.github.io/mkdocs-site/>.
 
 Modify your markdown files in docs/, make a new commit and push your site to GitHub. GitHub will automatically publish the newest contents.

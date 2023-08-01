@@ -1,6 +1,6 @@
 # iPad 购买建议
 
-> 本文链接: https://yang-xijie.github.io/BLOG/Apple/ipad-recommend/
+> 本文链接: https://luyuezhi.github.io/BLOG/Apple/ipad-recommend/
 >
 > 作者：Bilibili@卢月之619
 > 

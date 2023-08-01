@@ -1,6 +1,6 @@
 # 英语音标教学
 
-> 作者：[卢月之](https://github.com/Yang-Xijie)
+> 作者：[卢月之](luyuezhi.top)
 > 
 > 请勿转载
 > 

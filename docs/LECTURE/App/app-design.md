@@ -303,12 +303,12 @@ GitHub上搜一搜看有没有**类似的app或框架**：比如我们在开发�
 那么测试重要吗？
 
 - 对于`语言工具包`来说，由于无法直接运行，所以测试是**必要**的。你甚至是在面向测试编程，可以先写测试代码，然后按照测试代码来写你的程序，也即面向测试编程。
-    - 比如我之前做的一个标记语言解释器[ExMark](https://github.com/Yang-Xijie/ExMark)
+    - 比如我之前做的一个标记语言解释器[ExMark](luyuezhi.top/ExMark)
 - 对于`个人开发`的程序来说，无论是命令行程序还是GUI程序，测试都可有可无，大多是时候，是**没有必要添加测试**的。首先直接运行即可查看成果；专门添加测试反而会浪费时间，更不用说应用的结构可能随时会改，测试的代码也需要不断更新。
 - 对于`开源程序`来说，自动化测试是**比较需要**的，别人提交的代码有没有问题呢？在别人添加新功能的时候有没有破坏现有的功能呢？给开源的仓库添加自动化测试会让开源项目的管理变得轻松。
 - 对于**大型团队**开发的程序来说，首先要做好数据的封装和代码的模块化，然后做模块化测试。这是非常必要的，能够发现很多边界情况。甚至**会有专门的测试人员来编写测试代码**。
 
-[ExMark测试片段](https://github.com/Yang-Xijie/ExMark/blob/main/Tests/ExMarkTests/File_to_HTML/Element-level/element-code.swift)：
+[ExMark测试片段](luyuezhi.top/ExMark/blob/main/Tests/ExMarkTests/File_to_HTML/Element-level/element-code.swift)：
 
 ```swift
 class Test_element_code: XCTestCase {

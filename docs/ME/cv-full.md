@@ -14,8 +14,8 @@
     - 微信：y564197835
     - 手机：182 2077 6484
 - 相关链接
-    - 个人网站 <https://yang-xijie.github.io>
-    - GitHub <https://github.com/Yang-Xijie>
+    - 个人网站 <https://luyuezhi.github.io>
+    - GitHub <luyuezhi.top>
     - Bilibili <https://space.bilibili.com/24502827>
 
 ## 现状
@@ -156,11 +156,11 @@
     - [Markdown录屏](https://www.bilibili.com/video/BV1jV411j7mz) [Git录屏](https://www.bilibili.com/video/BV1eh411v7gt)
 - `2021.7` 清华信息学院科学技术协会联合暑培  命令行和 Linux 讲座
     - 讲座约240名同学参加
-    - [讲稿](https://yang-xijie.github.io/LECTURE/Linux/linux/)
+    - [讲稿](https://luyuezhi.github.io/LECTURE/Linux/linux/)
     - [录屏](https://www.bilibili.com/video/BV12h41167Lk)
 - `2022.4` 清华软件学院移动应用软件开发课程  软件开发经验分享
     - 讲座约60名同学参加
-    - [讲稿](https://yang-xijie.github.io/LECTURE/App/app-design/)
+    - [讲稿](https://luyuezhi.github.io/LECTURE/App/app-design/)
     - [录屏](https://www.bilibili.com/video/BV1PY41177xw)
 - `2022.9` 北京海淀区中关村 Shifu Meetup
     - 通过线下演示  介绍物联网全新框架 Shifu 接入设备与应用开发的能力
@@ -177,12 +177,12 @@
 
 ## 相关链接
 
-- [个人网站](https://yang-xijie.github.io)
-    - [讲稿](https://yang-xijie.github.io/LECTURE/)
-    - [博客](https://yang-xijie.github.io/BLOG/)
-    - [开发笔记](https://yang-xijie.github.io/DEV/)
-    - [个人文章](https://yang-xijie.github.io/3/)
-- [GitHub](https://github.com/Yang-Xijie)
+- [个人网站](https://luyuezhi.github.io)
+    - [讲稿](https://luyuezhi.github.io/LECTURE/)
+    - [博客](https://luyuezhi.github.io/BLOG/)
+    - [开发笔记](https://luyuezhi.github.io/DEV/)
+    - [个人文章](https://luyuezhi.github.io/3/)
+- [GitHub](luyuezhi.top)
     - 项目
         - [浣熊财记](https://github.com/Racoon-Book/Racoon-Account-Book)
             - 简介：iOS 财记应用
@@ -193,7 +193,7 @@
             - 简介：macOS透明便签 触手可及的纯文本编辑器
             - 技术：AppKit SwiftUI
             - 状态：已完成主要功能开发，待上架 App Store
-        - [Input Source Switcher](https://github.com/Yang-Xijie/InputSourceSwitcher)
+        - [Input Source Switcher](luyuezhi.top/InputSourceSwitcher)
             - 简介：macOS工具类应用 帮助用户快速切换输入法
             - 技术：AppleScript
             - 状态：因 macOS API 变动，已停止维护
@@ -206,12 +206,12 @@
             - 奖项：获中国高校计算机大赛2022移动应用创新赛二等奖
             - 应用特点：用文字编辑的直观方式实现音频剪辑 极大提高音频创作者的剪辑效率 有较大的商业化潜力
     - 工具
-        - [XCLog](https://github.com/Yang-Xijie/XCLog) - Swift package 可以在编写Swift代码的过程中输出更详细的调试信息
-        - [mkv2mp4](https://github.com/Yang-Xijie/mkv2mp4_fcp) - shell脚本 将MKV封装格式提取视频轨和音轨后重新封装为MP4
+        - [XCLog](luyuezhi.top/XCLog) - Swift package 可以在编写Swift代码的过程中输出更详细的调试信息
+        - [mkv2mp4](luyuezhi.top/mkv2mp4_fcp) - shell脚本 将MKV封装格式提取视频轨和音轨后重新封装为MP4
     - Demo
-        - [Scrollable MTKView](https://github.com/Yang-Xijie/ScrollablePencilMTKView) - iOS Metal渲染 基本上采用底层的方式实现了ScrollView
-        - [ExARLive2D](https://github.com/Yang-Xijie/ExARLive2D) - iOS 人脸追踪结合Live2D 借助CubismSDK和ARKit实现人脸追踪
-        - [macOS Metal](https://github.com/Yang-Xijie/AppKit-Metal) - macOS Metal playground 在macOS上的Metal渲染尝试
+        - [Scrollable MTKView](luyuezhi.top/ScrollablePencilMTKView) - iOS Metal渲染 基本上采用底层的方式实现了ScrollView
+        - [ExARLive2D](luyuezhi.top/ExARLive2D) - iOS 人脸追踪结合Live2D 借助CubismSDK和ARKit实现人脸追踪
+        - [macOS Metal](luyuezhi.top/AppKit-Metal) - macOS Metal playground 在macOS上的Metal渲染尝试
 - [Bilibili](https://space.bilibili.com/24502827)
     - 个人教程
         - [macOS使用VSCode编写C++代码](https://space.bilibili.com/24502827/channel/collectiondetail?sid=139476)

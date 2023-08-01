@@ -2,7 +2,7 @@
 
 > NOTICE: This method might make your project unable to upload to App Store Connect.
 
-> Author: [Yang-Xijie](https://github.com/Yang-Xijie)
+> Author: [luyuezhi](luyuezhi.top)
 > 
 > Updated in 220208 for Xcode 13.
 > 
@@ -51,7 +51,7 @@
 # [Info.plist Is Missing in Xcode 13 — Here’s How To Get It Back](https://betterprogramming.pub/info-plist-is-missing-in-xcode-13-heres-how-to-get-it-back-1a7abf3e2514)
 
 # [Author]
-# [Yang-Xijie](https://github.com/Yang-Xijie)
+# [luyuezhi](luyuezhi.top)
 
 git=$(sh /etc/profile; which git)
 number_of_commits=$("$git" rev-list HEAD --count)

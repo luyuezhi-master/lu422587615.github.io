@@ -35,8 +35,8 @@ jobs:
     - name: mirror Github repos to Gitee
       uses: Yikun/hub-mirror-action@master
       with:
-        src: github/Yang-Xijie # change to your name
-        dst: gitee/yang-xijie # change to your name
+        src: github/luyuezhi # change to your name
+        dst: gitee/luyuezhi # change to your name
         dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
         dst_token: ${{ secrets.GITEE_TOKEN }}
         force_update: true
@@ -48,7 +48,7 @@ jobs:
 
 You might receive an email like this after 60 days:
 
-> [GitHub] The "mirror Github repos to Gitee" workflow in Yang-Xijie/Gitee-Mirror will be disabled soon
+> [GitHub] The "mirror Github repos to Gitee" workflow in luyuezhi/Gitee-Mirror will be disabled soon
 > 
 > GitHub Actions scheduled workflow
 > 

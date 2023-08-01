@@ -329,7 +329,7 @@ echo $PATH
 
 ### shell脚本 - 组合你的命令
 
-`shell`脚本（以我写的处理视频的脚本为例：脚本是一段代码，组合了很多命令[mkv2mp4_fcp](https://github.com/Yang-Xijie/mkv2mp4_fcp)）
+`shell`脚本（以我写的处理视频的脚本为例：脚本是一段代码，组合了很多命令[mkv2mp4_fcp](luyuezhi.top/mkv2mp4_fcp)）
 
 ### homebrew - macOS快速安装命令行程序
 

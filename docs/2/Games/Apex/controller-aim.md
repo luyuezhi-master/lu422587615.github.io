@@ -1,10 +1,10 @@
 # 清华工科生告诉你 Apex 的手柄辅助瞄准究竟是什么
 
-> 作者 [卢月之](https://yang-xijie.github.io)
+> 作者 [卢月之](https://luyuezhi.github.io)
 > 
 > 写于 230614
 >
-> 转载请注明原文链接 https://yang-xijie.github.io/2/Games/Apex/controller-aim/
+> 转载请注明原文链接 https://luyuezhi.github.io/2/Games/Apex/controller-aim/
 
 一般广泛接受的结论是：**辅助瞄准弥补了手柄玩家玩 FPS 游戏的劣势**。今天我们就来好好讲一讲这句话。
 

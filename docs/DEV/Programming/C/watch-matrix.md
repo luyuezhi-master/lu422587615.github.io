@@ -200,4 +200,4 @@ Target 0: (hello-debug) stopped.
 - https://blog.csdn.net/Kobe51920/article/details/90739757
 - https://github.com/Microsoft/vscode-cpptools/issues/172#issuecomment-280520910
 - https://lldb.llvm.org/use/tutorial.html
-- https://github.com/Yang-Xijie/C-Makefile-template
+- luyuezhi.top/C-Makefile-template

@@ -6,7 +6,7 @@
 >
 > Bilibili@卢月之619
 > 
-> 本文链接: https://yang-xijie.github.io/BLOG/macOS/mac-recommend/
+> 本文链接: https://luyuezhi.github.io/BLOG/macOS/mac-recommend/
 
 ## 前提
 
