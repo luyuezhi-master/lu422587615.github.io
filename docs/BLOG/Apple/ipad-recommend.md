@@ -2,7 +2,7 @@
 
 > 本文链接: https://yang-xijie.github.io/BLOG/Apple/ipad-recommend/
 >
-> 作者：Bilibili@杨希杰619
+> 作者：Bilibili@卢月之619
 > 
 > 个人观点，仅供参考，转载请注明出处
 > 

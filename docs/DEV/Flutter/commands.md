@@ -23,7 +23,7 @@ flutter run -d mac
 open -a simulator
 flutter run -d ipad
 # run for iPad
-flutter run -d 杨希杰
+flutter run -d 卢月之
 
 # run using release mode
 flutter run --release

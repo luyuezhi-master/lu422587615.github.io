@@ -1,6 +1,6 @@
 # 清华工科生告诉你 Apex 的手柄辅助瞄准究竟是什么
 
-> 作者 [杨希杰](https://yang-xijie.github.io)
+> 作者 [卢月之](https://yang-xijie.github.io)
 > 
 > 写于 230614
 >
